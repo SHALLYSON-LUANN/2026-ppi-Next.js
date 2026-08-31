@@ -12,8 +12,8 @@
     Capítulo 3: Completo (Introduzindo JavaScript)
     Capítulo 4: Completo (Sintaxe do React)
     Capítulo 5: Completo (Componentes do React)
-    Capítulo 6: -
-    Capítulo 7: -
-    Capítulo 8: -
+    Capítulo 6: Completo (Adereços, Exibição, Lista)
+    Capítulo 7: Completo (Interatividade com Usuário, botão)
+    Capítulo 8: Completo (Resumo dos Fundamentos, React até Next.js)
     Capítulo 9: -
     Capítulo 10: -
