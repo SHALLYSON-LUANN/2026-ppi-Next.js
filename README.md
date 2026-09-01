@@ -15,5 +15,5 @@
     Capítulo 6: Completo (Adereços, Exibição, Lista)
     Capítulo 7: Completo (Interatividade com Usuário, botão)
     Capítulo 8: Completo (Resumo dos Fundamentos, React até Next.js)
-    Capítulo 9: -
+    Capítulo 9: Completo (Instalando o Next.js, implementando React)
     Capítulo 10: -
