@@ -16,4 +16,5 @@
     Capítulo 7: Completo (Interatividade com Usuário, botão)
     Capítulo 8: Completo (Resumo dos Fundamentos, React até Next.js)
     Capítulo 9: Completo (Instalando o Next.js, implementando React)
-    Capítulo 10: -
+    Capítulo 10: Completo (Componentes do servidor e do cliente)
+    {FINALIZADO}
